@@ -43,7 +43,7 @@ This is a Node.js and Express.js based API for managing products. The API allows
   }
 }
 ```
-
+```
 
 ### Remove Product (Soft Delete)
 
@@ -89,6 +89,7 @@ This is a Node.js and Express.js based API for managing products. The API allows
    {
          "message": "Product restored successfully"
    }
+```
 ```
 
 
