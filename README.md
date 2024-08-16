@@ -67,8 +67,6 @@ This is a Node.js and Express.js based API for managing products. The API allows
          "message": "Product restored successfully"
    }
 ```
-
-```
 ### Edit Product
 
 - **URL**: `http://localhost:3000/api/products/:id/edit`
@@ -91,7 +89,6 @@ This is a Node.js and Express.js based API for managing products. The API allows
    {
          "message": "Product restored successfully"
    }
-```
 ```
 
 
