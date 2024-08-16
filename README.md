@@ -5,9 +5,9 @@ This is a Node.js and Express.js based API for managing products. The API allows
 ## Features
 
 - Create new products
-- Soft delete (remove) products
+- Remove products
 - Restore removed products (Put Back)
-- Update product details
+- Edit product details
 - Permanently delete products.
 
 
@@ -71,7 +71,7 @@ This is a Node.js and Express.js based API for managing products. The API allows
 ```
 ### Edit Product
 
-- **URL**: `http://localhost:3000/api/products/:id`
+- **URL**: `http://localhost:3000/api/products/:id/edit`
 - **Method**: `POST`
 - **Body**:
     ```json
