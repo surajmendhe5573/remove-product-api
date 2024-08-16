@@ -60,7 +60,7 @@ This is a Node.js and Express.js based API for managing products. The API allows
 ### Restore Product (Put Back)
 
 - **URL**: `http://localhost:3000/api/products/:id/restore`
-- **Method**: `PUT`
+- **Method**: `POST`
 - **Response**: 
    ```
    {
